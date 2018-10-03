@@ -7,10 +7,8 @@
     "start": "live-server"
   },
   "devDependencies": {
-    "wct-browser-legacy": "^1.0.1"
-  },
-  "dependencies": {
     "@webcomponents/shadydom": "^1.2.0",
-    "live-server": "^1.2.0"
+    "live-server": "^1.2.0",
+    "wct-browser-legacy": "^1.0.1"
   }
 }

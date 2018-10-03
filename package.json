@@ -2,7 +2,7 @@
   "name": "childNodesTest",
   "private": true,
   "description": "Shadow DOM polyfill test",
-  "main": "shadydom.js",
+  "main": "childNodesTest.js",
   "scripts": {
     "start": "live-server"
   },
@@ -10,6 +10,7 @@
     "wct-browser-legacy": "^1.0.1"
   },
   "dependencies": {
+    "@webcomponents/shadydom": "^1.2.0",
     "live-server": "^1.2.0"
   }
 }
